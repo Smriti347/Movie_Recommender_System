@@ -40,15 +40,6 @@ The recommender system leverages Natural Language Processing (NLP) techniques to
     pip install -r requirements.txt
     ```
 
-## Project Structure
-
-```
-├── app.py                # Streamlit app
-├── data                  # Dataset folder
-│   └── movies.csv
-└── requirements.txt      # Dependencies
-```
-
 ## How It Works
 
 1. Load the dataset and preprocess it by filling missing values in descriptions.  
